@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kdkdongki1997@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/donggi-kim-027328188](https://www.linkedin.com/in/donggi-kim-027328188)
+- 📄 Know about my experiences [Kim Dong-gi](https://www.linkedin.com/in/donggi-kim-027328188)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
