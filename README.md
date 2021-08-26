@@ -2,13 +2,13 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/kdkrkwhr?style=flat-square&label=Follow)](https://github.com/kdkrkwhr/)
 
-Hi There👋, An backend developer.
+Hi There👋, I’m backend developer.
 
-View my portfolio [here](https://www.linkedin.com/in/donggi-kim-027328188/)
+view my profile . [here](https://www.linkedin.com/in/donggi-kim-027328188/)
 
-- 🐋 I am a member of the WAW crew [W.A.W Crew](https://github.com/CREW-WAW)
+- 🐋 I’m a member of the [W.A.W Crew](https://github.com/CREW-WAW)
 
-- 📱 I’m currently learning **App development technology with Flutter**
+- 📱 I’m currently learning App development technology with [Flutter](https://flutter-ko.dev/)
 
 - 📝 I regularly write articles on [my blog](https://kdkrkwhr.github.io)
 
