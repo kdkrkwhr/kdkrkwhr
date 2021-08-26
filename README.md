@@ -4,8 +4,6 @@
 
 Hi There👋, An backend developer.
 
-View my portfolio [here](https://www.linkedin.com/in/donggi-kim-027328188/)
-
 - 🐋 I am a member of the WAW crew [W.A.W Crew](https://github.com/CREW-WAW)
 
 - 📱 I’m currently learning **App development technology with Flutter**
@@ -91,8 +89,4 @@ View my portfolio [here](https://www.linkedin.com/in/donggi-kim-027328188/)
 ## Stats ⌛
 GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=kdkrkwhr&custom_title=Github%20Stats&count_private=true&show_icons=true&hide_border=true&theme=algolia&include_all_commits=true&icon_color=ffffff" alt="kdkrkwhr" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kdkrkwhr&theme=algolia&hide_border=true" alt="kdkrkwhr" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdkrkwhr&theme=algolia&layout=compact&hide_border=true" alt="kdkrkwhr" />
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=kdkrkwhr&custom_title=Github%20Stats&count_private=true&show_icons=true&hide_border=true&theme=algolia&include_all_commits=true&icon_color=ffffff" alt="kdkrkwhr"/>
