@@ -4,6 +4,8 @@
 
 Hi There👋, An backend developer.
 
+View my portfolio [here](https://www.linkedin.com/in/donggi-kim-027328188/)
+
 - 🐋 I am a member of the WAW crew [W.A.W Crew](https://github.com/CREW-WAW)
 
 - 📱 I’m currently learning **App development technology with Flutter**
@@ -46,7 +48,6 @@ Hi There👋, An backend developer.
     <a href="https://www.elastic.co/kibana" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> 
     </a>
-    <br/>
      <a href="https://redis.io" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
     </a>
@@ -68,10 +69,12 @@ Hi There👋, An backend developer.
     <a href="https://www.oracle.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
     </a> 
-    <br/>
     <a href="https://spring.io/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
     </a> 
+    <a href="https://www.flask.com/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+    </a>
     <a href="https://flutter.dev" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
     </a> 
