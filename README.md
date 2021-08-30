@@ -97,4 +97,5 @@ view my profile . [here](https://www.linkedin.com/in/dongki-kim-027328188/)
 ## Stats ⌛
 GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=kdkrkwhr&custom_title=Github%20Stats&count_private=true&show_icons=true&hide_border=true&theme=algolia&include_all_commits=true&icon_color=ffffff" alt="kdkrkwhr"/>
+<img src='https://github-readme-stats.vercel.app/api?username=kdkrkwhr&show_icons=true&theme=algolia&count_private=true&line_height=40&hide_border=true'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kdkrkwhr&theme=algolia&hide_langs_below=4&hide_border=true' align="middle" />
