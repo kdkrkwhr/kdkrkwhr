@@ -16,6 +16,9 @@ view my profile . [here](https://www.linkedin.com/in/donggi-kim-027328188/)
 
 - 👨‍💻 Know about my experiences [Linked In](https://www.linkedin.com/in/donggi-kim-027328188)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kdkrkwhr&theme=radical&title=Commit,MultiLanguage,Followers,Stars,Repositories)
+
 ## Languages 💻
 ![Java](https://img.shields.io/badge/Java-%23FA7343.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3775A9?logo=Python&logoColor=FFD848&style=for-the-badge)
