@@ -14,7 +14,7 @@ view my profile . [here](https://www.linkedin.com/in/donggi-kim-027328188/)
 
 - 📬 How to reach me **kdkdongki1997@gmail.com**
 
-- I make music as a hobby. It's also my blog [background music](https://www.loudly.com/community/profiles/codek9)
+- 🎵 I make music as a hobby. It's also my blog [background music](https://www.loudly.com/community/profiles/codek9)
 
 - 👨‍💻 Know about my experiences [Linked In](https://www.linkedin.com/in/donggi-kim-027328188)
 
