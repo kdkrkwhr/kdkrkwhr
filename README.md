@@ -10,7 +10,7 @@ view my profile . [here](https://www.linkedin.com/in/dongki-kim-027328188/)
 
 - 📱 I’m currently learning App development technology with [Flutter](https://flutter-ko.dev/)
 
-- 📝 I regularly write articles on [my blog](https://kdkrkwhr.github.io)
+- 📝 I regularly write articles on [blog](https://kdkrkwhr.github.io)
 
 - 🎵 I make music as a hobby. It's also my blog [background music](https://www.loudly.com/community/profiles/codek9)
 
