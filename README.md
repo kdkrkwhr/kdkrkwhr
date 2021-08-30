@@ -4,7 +4,7 @@
 
 Hi There👋, I’m backend developer.
 
-view my profile . [here](https://www.linkedin.com/in/dongki-kim-027328188/)
+view my profile . [here](https://www.linkedin.com/in/donggi-kim-027328188/)
 
 - 🐋 I’m a member of the [W.A.W Crew](https://github.com/CREW-WAW)
 
@@ -14,7 +14,9 @@ view my profile . [here](https://www.linkedin.com/in/dongki-kim-027328188/)
 
 - 📬 How to reach me **kdkdongki1997@gmail.com**
 
-- 👨‍💻 Know about my experiences [Linked In](https://www.linkedin.com/in/dongki-kim-027328188)
+- I make music as a hobby. It's also my blog [background music](https://www.loudly.com/community/profiles/codek9)
+
+- 👨‍💻 Know about my experiences [Linked In](https://www.linkedin.com/in/donggi-kim-027328188)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kdkrkwhr&theme=radical&title=Commit,MultiLanguage,Followers,Stars,Repositories)
