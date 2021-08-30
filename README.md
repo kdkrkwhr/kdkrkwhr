@@ -12,9 +12,9 @@ view my profile . [here](https://www.linkedin.com/in/donggi-kim-027328188/)
 
 - 📝 I regularly write articles on [my blog](https://kdkrkwhr.github.io)
 
-- 📬 How to reach me **kdkdongki1997@gmail.com**
-
 - 🎵 I make music as a hobby. It's also my blog [background music](https://www.loudly.com/community/profiles/codek9)
+
+- 📬 How to reach me **kdkdongki1997@gmail.com**
 
 - 👨‍💻 Know about my experiences [Linked In](https://www.linkedin.com/in/donggi-kim-027328188)
 
