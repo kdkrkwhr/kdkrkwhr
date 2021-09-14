@@ -6,6 +6,8 @@ Hi There👋, I’m backend developer.
 
 view my profile . [here](https://www.linkedin.com/in/dongki-kim-027328188/)
 
+Let me introduce my crew . [here](http://waw.kimdongki.com)
+
 - 🐋 I’m a member of the [W.A.W Crew](https://github.com/CREW-WAW)
 
 - 📱 I’m currently learning App development technology with [Flutter](https://flutter-ko.dev/)
