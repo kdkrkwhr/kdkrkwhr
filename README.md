@@ -6,7 +6,7 @@ Hi There👋, I’m backend developer.
 
 view my profile . [here](https://www.linkedin.com/in/dongki-kim-027328188/)
 
-Let me introduce my crew . [here](http://waw.kimdongki.com)
+Let me introduce my Crew . [W.A.W](http://waw.kimdongki.com)
 
 - 🐋 I’m a member of the [W.A.W Crew](https://github.com/CREW-WAW)
 
