@@ -4,9 +4,8 @@
 
 Hi There👋, I’m backend developer.
 
-view my profile . [here](https://www.linkedin.com/in/dongki-kim-027328188/)
+view my profile . [here](https://www.linkedin.com/in/dong-ki-kim-027328188/)
 
-Let me introduce my Crew . [W.A.W](http://waw.kimdongki.com)
 
 - 🐋 I’m a member of the [W.A.W Crew](https://github.com/CREW-WAW)
 
@@ -18,10 +17,10 @@ Let me introduce my Crew . [W.A.W](http://waw.kimdongki.com)
 
 - 📬 How to reach me **kdkdongki1997@gmail.com**
 
-- 👨‍💻 Know about my experiences [Linked In](https://www.linkedin.com/in/dongki-kim-027328188)
+- 👨‍💻 Know about my experiences [Linked In](https://www.linkedin.com/in/dong-ki-kim-027328188/)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kdkrkwhr&theme=radical&title=Commit,MultiLanguage,Followers,Stars,Repositories)
+![trophy](https://github-profile-trophy.vercel.app/?username=kdkrkwhr&theme=radical&title=Commit,MultiLanguage,Followers,Stars,Repositories)
 
 ## Languages 💻
 ![Java](https://img.shields.io/badge/Java-%23FA7343.svg?&style=for-the-badge&logo=Java&logoColor=white)
