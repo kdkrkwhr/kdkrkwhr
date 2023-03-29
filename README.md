@@ -7,9 +7,6 @@ Hi There👋, I’m backend developer.
 view my profile . [here](https://www.linkedin.com/in/dong-ki-kim-027328188/)
 
 
-view my instagram . [here](https://www.instagram.com/donggi4599/)
-
-
 - 🐋 I’m a member of the [W.A.W Crew](https://github.com/CREW-WAW)
 
 - 📱 I’m currently learning App development technology with [Flutter](https://flutter-ko.dev/)
