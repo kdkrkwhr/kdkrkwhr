@@ -7,11 +7,7 @@ Hi There👋, I’m backend developer.
 view my profile . [here](https://www.linkedin.com/in/dong-ki-kim-027328188/)
 
 
-- 🐋 I’m a member of the [W.A.W Crew](https://github.com/CREW-WAW)
-
-- 📱 I’m currently learning App development technology with [Flutter](https://flutter-ko.dev/)
-
-- 📝 I regularly write articles on [blog](https://kdkrkwhr.github.io) Or create a [technical document.](https://drive.google.com/drive/folders/1MGl_mVN2wz00QU2VWeoOeanBqAImPGoX)
+- 🐋 I’m a member of the [deepWhale labs Crew](https://github.com/deepwhale-labs)
 
 - 🎵 I make music as a hobby. It's also my blog [background music](https://www.loudly.com/community/profiles/codek9)
 
@@ -98,5 +94,4 @@ view my profile . [here](https://www.linkedin.com/in/dong-ki-kim-027328188/)
 ## Stats ⌛
 GitHub
 
-<img src='https://github-readme-stats.vercel.app/api?username=kdkrkwhr&show_icons=true&theme=algolia&count_private=true&line_height=40&hide_border=true'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kdkrkwhr&theme=algolia&hide_langs_below=4&hide_border=true' align="middle" />
