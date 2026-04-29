@@ -1,97 +1,60 @@
-# Dong-ki, Kim (Jayden)
 
-[![GitHub followers](https://img.shields.io/github/followers/kdkrkwhr?style=flat-square&label=Follow)](https://github.com/kdkrkwhr/)
+<a href="https://github.com/kdkrkwhr">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=220&section=header&text=Dong-ki%20Kim&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=aka%20Jayden%20%E2%80%A2%20Backend%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
+</a>
 
-Hi There👋, I’m backend developer.
+<div align="center">
 
-view my profile . [here](https://www.linkedin.com/in/dong-ki-kim-027328188/)
+  <a href="https://github.com/kdkrkwhr">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=26D0CE&center=true&vCenter=true&width=520&lines=Hi+there+%F0%9F%91%8B+I'm+Jayden;Backend+Engineer+%40+deepWhale+labs;Java+%E2%80%A2+Python+%E2%80%A2+Spring+%E2%80%A2+Flutter;Building+reliable+systems+%26+making+music+%F0%9F%8E%B5" alt="typing" />
+  </a>
 
-
-- 🐋 I’m a member of the [deepWhale labs Crew](https://github.com/deepwhale-labs)
-
-- 🎵 I make music as a hobby. It's also my blog [background music](https://www.loudly.com/community/profiles/codek9)
-
-- 📬 How to reach me **kdkdongki1997@gmail.com**
-
-- 👨‍💻 Know about my experiences [Linked In](https://www.linkedin.com/in/dong-ki-kim-027328188/)
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=kdkrkwhr&theme=radical&title=Commit,MultiLanguage,Followers,Stars,Repositories)
-
-## Languages 💻
-![Java](https://img.shields.io/badge/Java-%23FA7343.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3775A9?logo=Python&logoColor=FFD848&style=for-the-badge)
-![Javascript](https://img.shields.io/badge/javascript%20-%23E34F26.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![Dart](https://img.shields.io/badge/dart%20-%231572B6.svg?&style=for-the-badge&logo=dart&logoColor=white)
-
-## Development Tools 🛠
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0BC4C6?labelColor=434343&style=for-the-badge)
-![VSCode](https://img.shields.io/badge/-vscode-45B5F8?style=for-the-badge&logo=vscode&logoColor=white)
-
-## Frameworks🔦
-
-<p align="center">
-    <a href="https://www.docker.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  <p>
+    <a href="https://www.linkedin.com/in/dong-ki-kim-027328188/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://www.nginx.com" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-    </a> 
-    <a href="https://aws.amazon.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.jenkins.io" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-    </a> 
-    <a href="https://kubernetes.io" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
+    <a href="mailto:kdkdongki1997@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.elastic.co/kibana" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> 
+    <a href="https://github.com/deepwhale-labs">
+      <img src="https://img.shields.io/badge/deepWhale_labs-1A2980?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-     <a href="https://redis.io" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
+    <a href="https://www.loudly.com/community/profiles/codek9">
+      <img src="https://img.shields.io/badge/Music-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" />
     </a>
-    <a href="https://cassandra.apache.org/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.elastic.co" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
-    </a> 
-    <a href="https://firebase.google.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.postgresql.org" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a> 
-    <a href="https://www.oracle.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-    </a> 
-    <a href="https://spring.io/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.flask.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-    </a>
-    <a href="https://flutter.dev" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-    </a> 
-    <a href="https://opencv.org/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-    </a> 
-    <a href="https://pytorch.org/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.tensorflow.org" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-    </a> 
-</p>
+    <img src="https://komarev.com/ghpvc/?username=kdkrkwhr&label=Profile%20views&color=26d0ce&style=for-the-badge" />
+  </p>
 
-## Stats ⌛
-GitHub
+</div>
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kdkrkwhr&theme=algolia&hide_langs_below=4&hide_border=true' align="middle" />
+---
+
+### 🧑‍💻 About Me
+
+Backend engineer based in Seoul, focused on building reliable distributed systems and cloud-native services.
+Currently exploring **Rust**, **LLM Ops**, and **eBPF** — and producing music on the side.
+
+- 🐋 Member of the [**deepWhale labs**](https://github.com/deepwhale-labs) crew
+- 🎵 I produce music as a hobby — listen on [**Loudly**](https://www.loudly.com/community/profiles/codek9)
+- 👨‍💻 More about my work history on [**LinkedIn**](https://www.linkedin.com/in/dong-ki-kim-027328188/)
+- 📬 Reach me at **kdkdongki1997@gmail.com**
+
+---
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kdkrkwhr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kdkrkwhr&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kdkrkwhr&theme=tokyonight&no-frame=true&column=7&margin-w=10&hide=Commits,PullRequest,Issues,Repositories&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+</div>
+
+<div align="center">
+
+  <i>⭐️ From <a href="https://github.com/kdkrkwhr">Jayden</a> — thanks for stopping by!</i>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer" />
+
+</div>
