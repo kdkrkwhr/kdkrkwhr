@@ -45,9 +45,7 @@ Currently exploring **Rust**, **LLM Ops**, and **eBPF** — and producing music 
 
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kdkrkwhr&theme=tokyonight&no-frame=true&column=7&margin-w=10&hide=Commits,PullRequest,Issues,Repositories&rank=SECRET,SSS,SS,S,AAA,AA,A" />
-</div>
+
 
 <div align="center">
 
