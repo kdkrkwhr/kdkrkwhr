@@ -1,4 +1,3 @@
-
 <a href="https://github.com/kdkrkwhr">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=220&section=header&text=Dong-ki%20Kim&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=aka%20Jayden%20%E2%80%A2%20Backend%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
 </a>
@@ -6,7 +5,7 @@
 <div align="center">
 
   <a href="https://github.com/kdkrkwhr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=26D0CE&center=true&vCenter=true&width=520&lines=Hi+there+%F0%9F%91%8B+I'm+Jayden;Backend+Engineer+%40+deepWhale+labs;Java+%E2%80%A2+Python+%E2%80%A2+Spring+%E2%80%A2+Flutter;Building+reliable+systems+%26+making+music+%F0%9F%8E%B5" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=26D0CE&center=true&vCenter=true&width=520&lines=Hi+there+%F0%9F%91%8B+I'm+Jayden;Backend+Engineer;Java+%E2%80%A2+Spring+%E2%80%A2+AI+%E2%80%A2+MCP;Building+reliable+systems+%26+making+music+%F0%9F%8E%B5" alt="typing" />
   </a>
 
   <p>
@@ -32,25 +31,22 @@
 ### 🧑‍💻 About Me
 
 Backend engineer based in Seoul, focused on building reliable distributed systems and cloud-native services.
-Currently exploring **Rust**, **LLM Ops**, and **eBPF** — and producing music on the side.
+Currently exploring **LLM Ops**, **Spring AI**, **MCP (Model Context Protocol)**, and **Rust** — and producing music on the side.
 
 - 🐋 Member of the [**deepWhale labs**](https://github.com/deepwhale-labs) crew
+- 🤖 Interested in AI agents, vector stores, and open-source contributions to the Spring / MCP ecosystem
 - 🎵 I produce music as a hobby — listen on [**Loudly**](https://www.loudly.com/community/profiles/codek9)
 - 👨‍💻 More about my work history on [**LinkedIn**](https://www.linkedin.com/in/dong-ki-kim-027328188/)
 - 📬 Reach me at **kdkdongki1997@gmail.com**
 
 ---
-<div align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kdkrkwhr&theme=tokyonight&hide_border=true" />
 
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kdkrkwhr&theme=tokyonight&hide_border=true&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdkrkwhr&theme=tokyonight&hide_border=true&layout=compact" />
 </div>
 
-
-
 <div align="center">
-
   <i>⭐️ From <a href="https://github.com/kdkrkwhr">Jayden</a> — thanks for stopping by!</i>
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer" />
-
 </div>
