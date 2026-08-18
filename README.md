@@ -42,8 +42,19 @@ Currently exploring **LLM Ops**, **Spring AI**, **MCP (Model Context Protocol)**
 ---
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kdkrkwhr&theme=tokyonight&hide_border=true&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdkrkwhr&theme=tokyonight&hide_border=true&layout=compact" />
+
+  ### 🛠️ Tech Stack
+
+  <p>
+    <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+    <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /></a>
+    <a href="https://spring.io/projects/spring-ai"><img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></a>
+    <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" /></a>
+    <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+    <a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
+    <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
+  </p>
+
 </div>
 
 <div align="center">
