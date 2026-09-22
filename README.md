@@ -1,63 +1,37 @@
-<a href="https://github.com/kdkrkwhr">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=220&section=header&text=Dong-ki%20Kim&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=aka%20Jayden%20%E2%80%A2%20Backend%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
+<a href="https://kdkrkwhr.github.io/resume/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:185a46,100:76a889&height=210&section=header&text=Dong-ki%20Kim&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Java%20%2F%20Spring%20%2B%20AI&descSize=18&descAlignY=60&animation=fadeIn" alt="Dong-ki Kim, Backend Engineer" />
 </a>
 
 <div align="center">
-
-  <a href="https://github.com/kdkrkwhr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=26D0CE&center=true&vCenter=true&width=520&lines=Hi+there+%F0%9F%91%8B+I'm+Jayden;Backend+Engineer;Java+%E2%80%A2+Spring+%E2%80%A2+AI+%E2%80%A2+MCP;Building+reliable+systems+%26+making+music+%F0%9F%8E%B5" alt="typing" />
-  </a>
-
-  <p>
-    <a href="https://www.linkedin.com/in/dong-ki-kim-027328188/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:kdkdongki1997@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://github.com/deepwhale-labs">
-      <img src="https://img.shields.io/badge/deepWhale_labs-1A2980?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://www.loudly.com/community/profiles/codek9">
-      <img src="https://img.shields.io/badge/Music-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=kdkrkwhr&label=Profile%20views&color=26d0ce&style=for-the-badge" />
-  </p>
-
+  <a href="https://kdkrkwhr.github.io/resume/"><img src="https://img.shields.io/badge/Resume-185A46?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
+  <a href="https://kdkrkwhr.github.io/"><img src="https://img.shields.io/badge/Tech_Blog-263238?style=for-the-badge&logo=githubpages&logoColor=white" alt="Tech Blog" /></a>
+  <a href="https://www.linkedin.com/in/dong-ki-kim-027328188/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
----
+## About
 
-### 🧑‍💻 About Me
+Backend engineer based in Seoul, building **Java/Spring services and AI-enabled developer tools**.
 
-Backend engineer based in Seoul, focused on building reliable distributed systems and cloud-native services.
-Currently exploring **LLM Ops**, **Spring AI**, **MCP (Model Context Protocol)**, and **Rust** — and producing music on the side.
+I have worked on APIs, data models, event-driven systems, caching, deployment, and service operations across mobility, IoT, travel, and clinical research software. My recent work focuses on **Spring AI, LLM integration, RAG**, and reliable workflows for AI-assisted development.
 
-- 🐋 Member of the [**deepWhale labs**](https://github.com/deepwhale-labs) crew
-- 🤖 Interested in AI agents, vector stores, and open-source contributions to the Spring / MCP ecosystem
-- 🎵 I produce music as a hobby — listen on [**Loudly**](https://www.loudly.com/community/profiles/codek9)
-- 👨‍💻 More about my work history on [**LinkedIn**](https://www.linkedin.com/in/dong-ki-kim-027328188/)
-- 📬 Reach me at **kdkdongki1997@gmail.com**
+- Building [**Agent Hub Radio**](https://github.com/kdkrkwhr/agent-hub), a local multi-agent workspace for Claude Code, Codex, and Cursor
+- Exploring safe cross-agent coordination through [**agent-drift-guard**](https://github.com/kdkrkwhr/agent-drift-guard)
+- Writing about backend engineering and AI development workflows on my [**tech blog**](https://kdkrkwhr.github.io/)
+- Sharing my work history and selected projects on my [**resume**](https://kdkrkwhr.github.io/resume/)
 
----
+## Selected Projects
 
-<div align="center">
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Agent Hub Radio](https://github.com/kdkrkwhr/agent-hub) | Connects local coding agents in one workspace for discussion, independent voting, task delegation, and review | Python, SQLite, JavaScript |
+| [agent-drift-guard](https://github.com/kdkrkwhr/agent-drift-guard) | Buffers cross-agent messages and injects them at safe step boundaries without an extra LLM turn | Python |
+| [Hermes Agent Area](https://github.com/kdkrkwhr/hermes-agent-area) | Visualizes local agent activity in a 2D virtual office with dashboards and workflow views | JavaScript, Phaser, Vite |
+| [MSA Architecture](https://github.com/kdkrkwhr/msa-architecture) | Demonstrates Spring Boot microservice patterns and service boundaries | Java, Spring Boot |
 
-  ### 🛠️ Tech Stack
+## Core Stack
 
-  <p>
-    <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
-    <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /></a>
-    <a href="https://spring.io/projects/spring-ai"><img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></a>
-    <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" /></a>
-    <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-    <a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
-    <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
-  </p>
-
-</div>
+`Java` · `Spring Boot` · `Spring Security` · `WebFlux` · `MySQL` · `PostgreSQL` · `Redis` · `Kafka` · `Elasticsearch` · `Spring AI` · `RAG` · `Python` · `Linux`
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/kdkrkwhr">Jayden</a> — thanks for stopping by!</i>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer" />
+  <sub>Build the service. Verify the result. Leave the context for the next change.</sub>
 </div>
